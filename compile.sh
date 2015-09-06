@@ -1,0 +1,2 @@
+zip -r osm osm/*
+
