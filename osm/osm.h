@@ -34,8 +34,8 @@
 
 
 
-#ifndef OSM_NEO_h_v1-1-4
-#define OSM_NEO_h_v1-1-4
+#ifndef osm
+#define osm
 
 class MMA
 {
